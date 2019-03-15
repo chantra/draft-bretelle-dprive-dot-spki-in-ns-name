@@ -200,11 +200,6 @@ with this name server and consider it like any other name servers.
 
 TODO Security
 
-# IANA Considerations
-
-TODO: This document requires IANA actions (new RR type).
-
-
 --- back
 
 # Acknowledgments
